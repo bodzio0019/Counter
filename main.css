@@ -22,7 +22,7 @@ header {
 .count {
     font-size: 200px;
     font-weight: bold;
-    color: rgb(10, 99, 10);
+    color: black;
     display: flex;
     justify-content: center;
 }
